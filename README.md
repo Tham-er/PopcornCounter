@@ -1,6 +1,6 @@
 ## 🎬 PopcornCounter
 
-👉 **[Access the live app here]()**
+👉 **[Access the live app here](https://delightful-dragon-73ced7.netlify.app/)**
 
 A playful mini web app to count cinema-goers, tracking every ticket scanned with a fun popcorn twist! 🍿
 
